@@ -1,0 +1,11 @@
+C:\Users\user\Dropbox (Advanced Integration)\Active Projects\Automation\P-197-52 Pont Street\Automation\Crestron\2. Simpl# Pro\13-09-2019\P-197_13-09-2019\bin\Debug\P-197_13-09-2019.dll
+C:\Users\user\Dropbox (Advanced Integration)\Active Projects\Automation\P-197-52 Pont Street\Automation\Crestron\2. Simpl# Pro\13-09-2019\P-197_13-09-2019\bin\Debug\P-197_13-09-2019.pdb
+C:\Users\user\Dropbox (Advanced Integration)\Active Projects\Automation\P-197-52 Pont Street\Automation\Crestron\2. Simpl# Pro\13-09-2019\P-197_13-09-2019\bin\Debug\Crestron.SimplSharpPro.AudioDistribution.dll
+C:\Users\user\Dropbox (Advanced Integration)\Active Projects\Automation\P-197-52 Pont Street\Automation\Crestron\2. Simpl# Pro\13-09-2019\P-197_13-09-2019\bin\Debug\Crestron.SimplSharpPro.DeviceSupport.dll
+C:\Users\user\Dropbox (Advanced Integration)\Active Projects\Automation\P-197-52 Pont Street\Automation\Crestron\2. Simpl# Pro\13-09-2019\P-197_13-09-2019\bin\Debug\Crestron.SimplSharpPro.EthernetCommunications.dll
+C:\Users\user\Dropbox (Advanced Integration)\Active Projects\Automation\P-197-52 Pont Street\Automation\Crestron\2. Simpl# Pro\13-09-2019\P-197_13-09-2019\bin\Debug\SimplSharpCustomAttributesInterface.dll
+C:\Users\user\Dropbox (Advanced Integration)\Active Projects\Automation\P-197-52 Pont Street\Automation\Crestron\2. Simpl# Pro\13-09-2019\P-197_13-09-2019\bin\Debug\SimplSharpHelperInterface.dll
+C:\Users\user\Dropbox (Advanced Integration)\Active Projects\Automation\P-197-52 Pont Street\Automation\Crestron\2. Simpl# Pro\13-09-2019\P-197_13-09-2019\bin\Debug\SimplSharpPro.exe
+C:\Users\user\Dropbox (Advanced Integration)\Active Projects\Automation\P-197-52 Pont Street\Automation\Crestron\2. Simpl# Pro\13-09-2019\P-197_13-09-2019\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Dropbox (Advanced Integration)\Active Projects\Automation\P-197-52 Pont Street\Automation\Crestron\2. Simpl# Pro\13-09-2019\P-197_13-09-2019\obj\Debug\P-197_13-09-2019.dll
+C:\Users\user\Dropbox (Advanced Integration)\Active Projects\Automation\P-197-52 Pont Street\Automation\Crestron\2. Simpl# Pro\13-09-2019\P-197_13-09-2019\obj\Debug\P-197_13-09-2019.pdb
